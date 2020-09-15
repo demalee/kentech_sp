@@ -3,7 +3,7 @@
     <div class="clearfix"></div>
     <section class="section-side-image clearfix">
       <div class="img-holder col-md-12 col-sm-12 col-xs-12">
-        <div class="background-imgholder" style="background:url(images/wwa.jpg);"><img class="nodisplay-image" src="images/wwa.jpg" alt=""/> </div>
+        <div class="background-imgholder" style="background:url(images/africa3.jpg);"><img class="nodisplay-image" src="images/neuron.png" alt=""/> </div>
       </div>
       <div class="container-fluid" >
         <div class="row">
@@ -13,7 +13,7 @@
                 <div class="text text-center">
                     <br><br>
 {{--                  <h3 class="uppercase text-white less-mar-1 title">Services 1</h3>--}}
-                  <h6 class="uppercase text-white sub-title">Discover our working methods
+                  <h6 class="uppercase text-white sub-title">
                   </h6>
                 </div>
               </div>
@@ -45,58 +45,54 @@
                 <!--end title-->
 
 
-                <div class="col-md-3">
+                <div class="col-md-4">
                     <div class="ce-feature-box-50 text-center margin-bottom">
                         <div class="text-box">
                             <div class="iconbox-medium outline-gray-2 center round icon"><span class="icon-calendar"></span></div>
                             <div class="clearfix"></div>
                             <br/>
                             <h5 class="title font-weight-5"></h5>
-                            <p class="content">Great achievements happen through people and it is the people that make the business successful. Our experts showcase their skills, share their knowledge and learn from the like-minded in an open office set up.</p>
+                            <p class="content">
+                                We put our partners in the advantageous position of having at their disposal advanced technological solutions and the essential knowledge at micro-level to give them a competitive edge.
+                            </p>
                       <br> <br> </div>
 
                     </div>
                 </div>
                 <!--end item-->
 
-                <div class="col-md-3">
+                <div class="col-md-4">
                     <div class="ce-feature-box-50 primary text-center margin-bottom">
                         <div class="text-box">
                             <div class="iconbox-medium outline-gray-2 round icon"><span class="icon-browser"></span></div>
                             <div class="clearfix"></div>
                             <br/>
                             <h5 class="title font-weight-5"></h5>
-                            <p class="content">Within an environment stimulating personal growth, self- motivation and creativity, employees can take ownership of the processes that make both our business and our clients' businesses succeed.</p>
+                            <p class="content">
+                                We work closely with our partners to adapt the technology to their needs, their player preferences, and the local market requirements.
+                            </p>
                             <br> <br> <br></div>
 
                     </div>
                 </div>
                 <!--end item-->
 
-                <div class="col-md-3">
+                <div class="col-md-4">
                     <div class="ce-feature-box-50 text-center margin-bottom">
                         <div class="text-box">
                             <div class="iconbox-medium outline-gray-2 round icon"><span class="icon-bargraph"></span></div>
                             <div class="clearfix"></div>
                             <br/>
-                            <p class="content">Supporting talent in its growth to professional excellence is key to our success. At Kentech S.L.U. we have adopted a Talent Development Program that benefits from the best practices. It stimulates personal achievements, enhances employee’s professional skills and boosts their creativity.</p>
+                            <p class="content">
+                                We provide our partners with a tailored Gaming platform that will deliver an exceptional gaming experience, whilst keeping them at the forefront through constant product and technological innovations.
+                                <br> <br><br>   </p>
                         </div>
 
                     </div>
                 </div>
                 <!--end item-->
 
-                <div class="col-md-3">
-                    <div class="ce-feature-box-50 text-center margin-bottom">
-                        <div class="text-box">
-                            <div class="iconbox-medium outline-gray-2 round icon"><span class="icon-telescope"></span></div>
-                            <div class="clearfix"></div>
-                            <br/>
-                            <p class="content">Employees attend courses, relevant to their field of expertise, enrol in formal certification-training programs, take part in seminars, workshops and conferences - all that in the pursuit of the ultimate goal - to nurture our talent to the heights of success.</p>
-                            <br>  </div>
 
-                    </div>
-                </div>
                 <!--end item-->
 
             </div>
@@ -119,11 +115,12 @@
                             <div class="ce-feature-box-67">
                                 <div class="img-box">
                                     <div class="text-box">
-                                        <h4><span>Development Methodologies
+                                        <h4><span>
 
+ With new technology being rolled out on a daily basis, our aim is to make our technologies future-proof.
  <i class="fa fa-long-arrow-right text-primary" aria-hidden="true"></i></span></h4>
                                     </div>
-                                    <img src="images/wwa.jpg" alt="" class="img-responsive"/>
+                                    <img src="images/games1.png" alt="" class="img-responsive"/>
                                 </div>
                             </div>
                         </div>
@@ -134,10 +131,12 @@
                             <div class="ce-feature-box-67">
                                 <div class="img-box">
                                     <div class="text-box">
-                                        <h4><span>Being fast using lightweight methods shapes our Agile environment
+                                        <h4><span>
+                                               This acts as the principle safeguard for your operations, with tomorrow’s technology made available and seamlessly assimilated to your operations.
+
  &nbsp;  <i class="fa fa-long-arrow-right text-primary" aria-hidden="true"></i></span></h4>
                                     </div>
-                                    <img src="images/135.jpg" alt="" class="img-responsive"/>
+                                    <img src="images/about.png" alt="" class="img-responsive"/>
                                 </div>
                             </div>
                         </div>
@@ -153,7 +152,8 @@
                     <div class="ce-feature-box-53">
                         <div class=" icon-plain-small left icon"><span class="icon-notebook"></span></div>
                         <div class="text-box-right less-padding-1 text-left">
-                            <h5 class="title font-weight-5">Scrum</h5>
+                            <h5 class="title font-weight-5">Recognised for Intelligence
+                            </h5>
 
 
                             <div class="clearfix"></div>
@@ -167,7 +167,8 @@
                     <div class="ce-feature-box-53">
                         <div class=" icon-plain-small left icon"><span class="icon-presentation"></span></div>
                         <div class="text-box-right less-padding-1 text-left">
-                            <h5 class="title font-weight-5">Kanban</h5>
+                            <h5 class="title font-weight-5">Known for Reliability
+                            </h5>
 
                             <div class="clearfix"></div>
                             <br/>
@@ -177,7 +178,8 @@
                     <div class="ce-feature-box-53">
                         <div class=" icon-plain-small left icon"><span class="icon-presentation"></span></div>
                         <div class="text-box-right less-padding-1 text-left">
-                            <h5 class="title font-weight-5">Agile
+                            <h5 class="title font-weight-5">Chosen for Quality
+
 
                             </h5>
 
@@ -196,48 +198,16 @@
         </div>
     </section>
     <!-- end section -->
-    <section class="sec-padding">
-        <div class="container">
-            <div class="row">
-
-                <div class="col-md-12 col-sm-12 col-xs-12 text-center">
-                    <h4 class="uppercase">We use the most advanced technology
-                    </h4>
-                    <p>At KenTech S.L.U. we do not hesitate to embrace the change on the fast paced technology market. Our obsession is an efficiency and reliability factor. We always experiment and continue our research in replacing the components to develop a better Software.
-
-                    </p>
-                    <br/>
-                    <ul class="clients-list grid-cols-6 hover-1">
-                        <li><a href="#"><img src="images/clients/scala.png" alt=""  style="width: auto; height:  90px;  margin: -10px 13px 10px 10px;"></a><center></center></li>
-                        <li><a href="#"><img src="images/clients/react.png" alt=""  style="width: auto; height:  90px;  margin: -10px 13px 10px 10px;"></a></li>
-                        <li><a href="#"><img src="images/clients/node.png" alt=""  style="width: auto; height:  90px;  margin: -10px 13px 10px 10px;"></a></li>
-                        <li><a href="#"><img src="images/clients/angular.png" alt=""  style="width: auto; height:  90px;  margin: -10px 13px 10px 10px;"></a></li>
-                        <li><a href="#"><img src="images/clients/symphony.png" alt=""  style="width: auto; height:  90px;  margin: -10px 13px 10px 10px;"></a></li>
-                        <li><a href="#"><img src="images/clients/docker.png" alt=""  style="width: auto; height:  90px;  margin: -10px 13px 10px 10px;"></a></li>
-                        <li><a href="#"><img src="images/clients/git.png" alt=""  style="width: auto; height:  90px;  margin: -10px 13px 10px 10px;"></a></li>
-?                        <li><a href="#"><img src="images/clients/java.png" alt=""  style="width: auto; height:  90px;  margin: -10px 13px 10px 10px;"></a></li>
-                        <li><a href="#"><img src="images/clients/rabbit.png" alt=""  style="width: auto; height:  90px;  margin: -10px 13px 10px 10px;"></a></li>
-
-                    </ul>
-                </div>
-                <!--end item-->
-
-
-            </div>
-        </div>
-    </section>
-
 
     <section class="sec-padding-4 section-primary">
         <div class="container">
             <div class="row">
                 <div class="col-md-12 text-center">
-                    <h2 class="less-mar-1 font-weight-3 text-white">What inspires you?
+                    <h2 class="less-mar-1 font-weight-3 text-white">Lets grow together
 
                     </h2>
                     <div class="clearfix"></div>
                     <br/>
-                    <a class="btn btn-border btn-border-1x btn-round white uppercase" href="mailto:office@kentech-sp.com"><i class="fa fa-play-circle" aria-hidden="true"></i> Contact Us</a> </div>
             </div>
         </div>
     </section>

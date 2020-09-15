@@ -16,10 +16,10 @@
                                     <li class="mega-menu"><a href="{{url('/')}}">Home</a>
                                         <span class="arrow"></span>
                                     </li>
-                                    <li><a href="{{url('about')}}">Who we are</a> <span class="arrow"></span>
+                                    <li><a href="{{url('about')}}">About Us</a> <span class="arrow"></span>
 
                                     </li>
-                                    <li><a href="{{url('what')}}">What we do</a> <span class="arrow"></span>
+                                    <li><a href="{{url('what')}}">Services</a> <span class="arrow"></span>
 
                                     </li>
                                     <li class="mega-menu"><a href="{{url('how')}}">How we work</a>

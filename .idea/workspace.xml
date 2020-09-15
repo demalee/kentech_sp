@@ -10,7 +10,7 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
   </component>
@@ -151,6 +151,7 @@
       <option name="presentableId" value="Default" />
       <updated>1599680528533</updated>
       <workItem from="1599680529911" duration="15876000" />
+      <workItem from="1599710209054" duration="15688000" />
     </task>
     <servers />
   </component>
@@ -158,13 +159,33 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1599721115345">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1599721115345" />
+    <state width="1323" height="249" key="GridCell.Tab.0.bottom" timestamp="1599797209282">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="249" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1599797209282" />
+    <state width="1323" height="249" key="GridCell.Tab.0.center" timestamp="1599797209281">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="249" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1599797209281" />
+    <state width="1323" height="249" key="GridCell.Tab.0.left" timestamp="1599797209281">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="249" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1599797209281" />
+    <state width="1323" height="249" key="GridCell.Tab.0.right" timestamp="1599797209282">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="249" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1599797209282" />
     <state x="517" y="287" key="NewPhpFileDialog" timestamp="1599683816130">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="517" y="287" key="NewPhpFileDialog/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1599683816130" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1599685338251">
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1599724584578">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1599685338251" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1599724584578" />
   </component>
 </project>

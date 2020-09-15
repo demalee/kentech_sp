@@ -94,8 +94,8 @@
 
 
                 <ul class="footer-quick-links-4 dark">
-                    <li><a href="{{url('about')}}"><i class="fa fa-angle-right"></i> Who we are </a></li>
-                    <li><a href="{{url('what')}}"><i class="fa fa-angle-right"></i> What we do</a></li>
+                    <li><a href="{{url('about')}}"><i class="fa fa-angle-right"></i> About us </a></li>
+                    <li><a href="{{url('what')}}"><i class="fa fa-angle-right"></i> Services</a></li>
                     <li><a href="{{url('how')}}"><i class="fa fa-angle-right"></i> How we work</a></li>
                 </ul>
             </div>
@@ -123,7 +123,7 @@
 <section class="sec-padding-6 section-medium-dark">
     <div class="container">
         <div class="row">
-            <div class="fo-copyright-holder text-center" style="color: white">© Copyright Kentech S.L.U. 2017. All Rights Reserved.
+            <div class="fo-copyright-holder text-center" style="color: white">© Copyright Gaming Platform International. All Rights Reserved.
 
             </div>
         </div>

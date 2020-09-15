@@ -4,7 +4,7 @@
 <div class="header-inner-tmargin">
         <section class="section-side-image clearfix">
       <div class="img-holder col-md-12 col-sm-12 col-xs-12">
-        <div class="background-imgholder" style="background:url(images/header-inner-1.jpg);"><img class="nodisplay-image" src="images/header-inner-1.jpg" alt=""/> </div>
+        <div class="background-imgholder" style="background:url(images/user.png);"><img class="nodisplay-image" src="images/header-inner-1.jpg" alt=""/> </div>
       </div>
 
 <div class="container-fluid" >
@@ -14,7 +14,7 @@
        <div class="overlay">
        <div class="text text-center">
            <br><br>
-    <h6 class="uppercase text-white sub-title">Our culture
+    <h6 class="uppercase text-white sub-title">
     </h6>
     </div>
        </div>
@@ -22,13 +22,13 @@
         </div>
       </div>
     </section>
-    <div class=" clearfix"></div>
+
     <!--end section-->
     </div>
-    <div class="clearfix"></div>
+
     <!--end header inner-->
 
-<section>
+
     <div class="pagenation-holder">
       <div class="container">
         <div class="row">
@@ -44,7 +44,7 @@
         </div>
       </div>
     </div>
-  </section>
+
 
   <!--end section-->
 
@@ -68,10 +68,11 @@
                     <div class="b-line"></div>
                     <br/>
                     <p class="content">
-                        The story of our success began in June 2015. In one of the sunniest places in the world - Las Palmas de Gran Canaria Kentech S.L.U. was incorporated. The foreword of our story had been written in years before, in the emerging markets of East Africa. There, our stakeholders gathered extensive knowledge, experience and insights of this specific market’s need for the development of cutting edge technological solutions. More than that, they learned to listen to the customers, respect their culture and cherish their dreams. At Kentech S.L.U. the customer comes first.
-                    </p>
+
+
+                        BtoBet is a pioneer in the sports betting and online casino technology solutions, providing award winning sports betting and online casino solutions and a full range of management services to our partners.                    </p>
                     <div class="clearfix"></div>
-                    <br/>
+                    <br/><br/>
                      </div>
             </div>
             <!--end item-->
@@ -82,9 +83,8 @@
                     <div class="b-line"></div>
                     <br/>
                     <p class="content">
-                        This involves learning about the customer's ever-changing needs and meeting their expectations for lasting quality. And quality is the foundation for the management of our business. It is, therefore, company policy to consistently provide solutions and services that meet the quality expectations of our customers.                    </p>
-                    </p>
-                    <br><br><br>  <br><br><br><br><br><div class="clearfix"></div>
+                        The technological intelligence at the core of our products and deep know-how at local level, coupled with our drive to find innovative solutions enable us to anticipate the industry’s future needs, resulting in a competitive advantage for our partners                    </p>
+                   <div class="clearfix"></div>
                     <br/>
                      </div>
             </div>
@@ -97,9 +97,10 @@
                     <br/>
 
                     <p>
-                        Located off the western coast of Africa, Kentech S.L.U.’s team develops and delivers turnkey computing solutions, provides systems support, web development, and web-based applications, customized for the East African market needs and demands, building a bridge of innovation that connects different cultures.
-                   <br><br><br><br><br><br><br><br>  <div class="clearfix"></div>
-                    <br/>
+                        BtoBet and all its products and services are fully compliant in regulated markets all over the world.
+
+                         <div class="clearfix"></div>
+                    <br/><br/><br/><br/><br/><br/>
                     </div>
             </div>
             <!--end item-->
@@ -112,7 +113,7 @@
 <!-- end section -->
 
 
-<div class="parallax vertical-align" data-parallax-bg-image="images/wwa.jpgg" data-parallax-speed="0.9" data-parallax-direction="down">
+<div class="parallax vertical-align" data-parallax-bg-image="images/africa.jpg" data-parallax-speed="0.9" data-parallax-direction="down">
     <div class="parallax-overlay bg-opacity-8">
         <div class="container sec-tpadding-2 sec-bpadding-2">
             <div class="row slider-btn-14 btn-posi-1">
@@ -123,7 +124,8 @@
 
                         </h5>
                         <h2 class="font-weight-6 less-mar-1 line-height-5 text-white">
-                            Our partners and employees have a passion for technology
+                            HARNESSING TECHNOLOGY FOR ANULTIMATE PLAYER EXPERIENCE
+
 
                         </h2>
                         <div class="ce-title-line align-left"></div>
@@ -139,7 +141,8 @@
                             <div class="ce-feature-box-3 text-center">
                                 <div class="icon-plain-small center icon"><span class="icon-tablet"></span></div>
                                 <br/>
-                                <h5 class="title font-weight-5 text-white">Innovation</h5>
+                                <h5 class="title font-weight-5 text-white"> Harnessing technology for anultimate player experience
+                                </h5>
                             </div>
                         </div>
                         <!--end item-->
@@ -148,7 +151,8 @@
                             <div class="ce-feature-box-3 text-center">
                                 <div class="icon-plain-small center icon"><span class="icon-calendar"></span></div>
                                 <br/>
-                                <h5 class="title font-weight-5 text-white">Integrity
+                                <h5 class="title font-weight-5 text-white">We anticipate the market’s needs through technological innovation.
+
 
                                 </h5>
                             </div>
@@ -159,7 +163,7 @@
                             <div class="ce-feature-box-3 no-border text-center">
                                 <div class="icon-plain-small center icon"><span class="icon-lock"></span></div>
                                 <br/>
-                                <h5 class="title font-weight-5 text-white">Respect
+                                <h5 class="title font-weight-5 text-white">Future-proof fir future business
 
                                 </h5>
                             </div>
@@ -174,9 +178,10 @@
                             <div class="ce-feature-box-3 text-center">
                                 <div class="icon-plain-small center icon"><span class="icon-linegraph"></span></div>
                                 <br/>
-                                <h5 class="title font-weight-5 text-white">Our mission</h5>
+                                <h5 class="title font-weight-5 text-white">Why Us</h5>
                                 <p class="text-white opacity-6">
-                                    Our mission is to build cutting-edge applications, which deliver long term commercial benefits and make technology an asset for our clients' business.
+                                    With new technology being rolled out on a daily basis, our aim is to make our technologies future-proof. Success in such a constantly evolving scenario as the iGaming industry, heavily relies on an agile yet efficient and secure technological approach, that not only applies itself to the present needs, but also integrates effortlessly any future technologies.
+
 
                                 </p>
                             </div>
@@ -190,8 +195,8 @@
                                 <h5 class="title font-weight-5 text-white">Our vision
                                 </h5>
                                 <p class="text-white opacity-6">
-                                    To become a recognized provider of custom solutions to major companies across various verticals in emerging markets.
-
+                                    Harnessing technology for anultimate player experience
+                                    As a pioneer in new technologies for iGaming operators, BtoBet’s vision is to optimise and deliver a next level player experience through its highly flexible and customizable iGaming platforms.
                                 </p>
                             </div>
                         </div>
@@ -201,12 +206,11 @@
                             <div class="ce-feature-box-3 no-border text-center">
                                 <div class="icon-plain-small center icon"><span class="icon-chat"></span></div>
                                 <br/>
-                                <h5 class="title font-weight-5 text-white">Our core values
+                                <h5 class="title font-weight-5 text-white">About
 
                                 </h5>
                                 <p class="text-white opacity-6">
-                                    Kentech conducts its business with honesty and integrity. All staff at Kentech are expected to demonstrate professional etiquette by treating the clients, the partners and other employees of the company with respect.
-
+                                    We constantly aim to improve and set new standards to provide operators with technologies that are data driven and which allow a high level of personalization that enable our partners to create a truly customised and distinguished experience for their fold of players
                                 </p>
                             </div>
                         </div>

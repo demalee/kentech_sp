@@ -4,7 +4,7 @@
     <div class="header-inner-tmargin">
         <section class="section-side-image clearfix">
             <div class="img-holder col-md-12 col-sm-12 col-xs-12">
-                <div class="background-imgholder" style="background:url(images/wwa.jpg);"><img class="nodisplay-image" src="images/header-inner-1.jpg" alt=""/> </div>
+                <div class="background-imgholder" style="background:url(images/games.png);"><img class="nodisplay-image" src="images/cup.png" alt=""/> </div>
             </div>
 
             <div class="container-fluid" >
@@ -13,8 +13,8 @@
                         <div class="header-inner">
                             <div class="overlay">
                                 <div class="text text-center">
-                                    <br><br>
-                                    <h6 class="uppercase text-white sub-title">Our work
+
+                                    <h6 class="uppercase text-white sub-title">
 
                                     </h6>
                                 </div>
@@ -37,7 +37,7 @@
                     <div class="col-md-6">
                         <ol class="breadcrumb">
                             <li><a href="#">Home</a></li>
-                            <li><a href="#">Our work
+                            <li><a href="#">Our Services
                                 </a></li>
 
                         </ol>
@@ -67,11 +67,17 @@
                     <div class="text-left">
                         <div class="iconbox-small round left dark icon"><span class="icon-profile-male"></span></div>
                         <div class=" text-box-right text-left">
-                            <h5 class="title font-weight-5">Software development
+                            <h5 class="title font-weight-5">SPORTSBOOK
                             </h5>
-                            <p>Kentech provides turnkey, state of the art solutions based upon the latest technologies. Our SMS/USSD and Mobile software solutions gear our partners to gain mileage ahead of their rivals.
+                            <p>
+                                We provide you with all the services to support your sportsbook operations
 
                             </p>
+                            <p> Sportsbook content risk strategy</p>
+                            <p>Retail risk management services</p>
+                            <p>Jackpot betting services</p>
+                            <p>Resulting, reporting, and analysis services</p>
+
                         </div>
                     </div>
                 </div>
@@ -81,10 +87,13 @@
                     <div class="text-left">
                         <div class="iconbox-small round left dark icon"><span class="icon-pricetags"></span></div>
                         <div class=" text-box-right text-left">
-                            <h5 class="title font-weight-5">Big Data and BI solutions
+                            <h5 class="title font-weight-5">MANAGING RETAIL
+                                FROM AGENT TO SINGLE SHOP
                             </h5>
-                            <p>Depending on the requirements, Kentech provides solutions for the big-data environment that generate positive business value and enable companies to master their challenges in the best possible way.
+                            <p>
+                                Configure the Risk of your retail network according to your business structure, wheter you are a Super-Agent or a single shop.
 
+                                Super-Agent: Total freedom to customize just a part of the network, wheter it is a single shop or a sub-agent branch without affecting the general configuration for the rest of your operations
                             </p>
                         </div>
                     </div>
@@ -95,10 +104,12 @@
                     <div class="text-left">
                         <div class="iconbox-small round left dark icon"><span class="icon-trophy"></span></div>
                         <div class=" text-box-right text-left">
-                            <h5 class="title font-weight-5">Network design solutions
-                            </h5>
-                            <p>Kentech uses its in-house expertise to provide network design solutions to clients.
+                            <h5 class="title font-weight-5">TAILORED RISK ALERT
 
+                            </h5>
+                            <p>
+                                Get notified about potential risks via instant notifications.
+                                You are free to make use of a wide range of automated actions in response to your potential risk profile
                             </p>
                         </div>
                     </div>
@@ -121,22 +132,36 @@
                 <div class="col-md-6">
                     <div class="col-sm-12 nopadding">
                         <div class="sec-title-container less-padding-3 text-left">
-                            <h2 class="font-weight-6 less-mar-1 line-height-4">Managed Services
-                                for database backend</h2>
+                            <h2 class="font-weight-6 less-mar-1 line-height-4">Intelligent sport  solution</h2>
                             <div class="ce-title-line align-left"></div>
                         </div>
                     </div>
                     <!--end title-->
-                    <h5 class="font-weight-6 less-mar-1 line-height-4">Security</h5>
-                    <h6>We enforce stringent policies and best practices and ensure the privacy and regulatory compliance of customer data.
+                    <h5 class="font-weight-6 less-mar-1 line-height-4">INTUITUVE DESIGN
+                    </h5>
+                    <h6>
+                        Benefit from an advanced CMS to customise the sportsbook experience.
 
                     </h6>
-                    <h5 class="font-weight-6 less-mar-1 line-height-4">Data Continuity</h5>
+                    <h5 class="font-weight-6 less-mar-1 line-height-4">SOPHISTICATED OFFER MANAGEMENT
 
-                    <p>We provide reliable, monitored backup and recovery of customer’s databases.
+                    </h5>
 
+                    <p>
+                        Successful managing and maintaining of the Sport Betting Portal
                     </p>
+                    </p>
+                    <h5 class="font-weight-6 less-mar-1 line-height-4">NOTIFICATION SYSTEM
 
+
+                    </h5>
+
+                    <p>
+                        Identify easily fraudulent behaviour of a player
+                    </p>
+                    <p>
+                        Our Sportsbook Solution proudly gives the exclusive possibility to benefit from combining the offers of the main leading supplier of sports betting content together with an innovative Managed Trading Service and the enormous intelligence of our platform.
+                    </p>
                     <div class="clearfix"></div>
                     <br/>
                     <br/>
@@ -145,7 +170,7 @@
                 </div>
                 <!--end item-->
 
-                <div class="col-md-6"> <img src="images/203.png" alt="" class="img-responsive"/> </div>
+                <div class="col-md-6"> <img src="images/africa1.png" alt="" class="img-responsive"/> </div>
                 <!--end item-->
 
             </div>
@@ -177,7 +202,7 @@
                     <center>  <div class=" icon-plain-large left icon"><span class="icon-tablet"></span></div></center>
                         <div class="clearfix"></div>
                         <br/>
-                        <h4 class="title"><span>Online Entertainment Industry</span></h4>
+                        <h4 class="title"><span>Gaming metrics</span></h4>
 
                         <div class="clearfix"></div>
                         <br/>
@@ -191,7 +216,7 @@
                         <div class=" icon-plain-large left icon"><span class="icon-linegraph"></span></div>
                         <div class="clearfix"></div>
                         <br/>
-                        <h4 class="title"><span>Finance Technology
+                        <h4 class="title"><span>Advanced dynamic reporting
 
 </span></h4>
                         <div class="clearfix"></div>
@@ -206,7 +231,7 @@
                         <div class=" icon-plain-large left icon"><span class="icon-tools"></span></div>
                         <div class="clearfix"></div>
                         <br/>
-                        <h4 class="title"><span>Corporate administration
+                        <h4 class="title"><span>Cost management
 
 </span></h4>
                         <div class="clearfix"></div>

@@ -44,7 +44,7 @@
                                  data-splitin="none"
                                  data-splitout="none"
                                  data-responsive_offset="on"
-                                 style="z-index: 7; white-space: nowrap;"> We develop
+                                 style="z-index: 7; white-space: nowrap;"> The player-centric
 
                             </div>
 
@@ -66,8 +66,7 @@
                                  data-splitin="none"
                                  data-splitout="none"
                                  data-responsive_offset="on"
-                                 style="z-index: 7; white-space: nowrap;">Innovative applications
-
+                                 style="z-index: 7; white-space: nowrap;">Ecosystem
                             </div>
 
                             <!-- LAYER NR. 3 -->
@@ -106,7 +105,7 @@
                                  data-paddingbottom="[30,30,30,30]"
                                  data-paddingleft="[30,30,30,30]"
 
-                                 style="z-index: 7;"><a href="{{url('contact')}}">Get Started Now!</a></div>
+                                 style="z-index: 7;"><a href="mailto:office@kentech-sp.com">Get Started Now!</a></div>
 
 
                             <!-- LAYER NR. 3 -->
@@ -129,7 +128,7 @@
                                  data-paddingbottom="[0,0,0,0]"
                                  data-paddingleft="[0,0,0,0]"
 
-                                 style="z-index: 7;border-width:0px;"><img src="images/sliders/ipad.png" alt=""
+                                 style="z-index: 7;border-width:0px;"><img src="images/front.png" alt=""
                                                                            data-ww="['430px','430px','200px','170px']"
                                                                            data-hh="['540px','540px','251px','213px']"
                                                                            width="430" height="540" data-no-retina>
@@ -154,7 +153,7 @@
                                  data-paddingbottom="[0,0,0,0]"
                                  data-paddingleft="[0,0,0,0]"
 
-                                 style="z-index: 8;border-width:0px;"><img src="images/sliders/ipad-screen-1.jpg"
+                                 style="z-index: 8;border-width:0px;"><img src="images/front.png"
                                                                            alt=""
                                                                            data-ww="['290px','290px','135px','115px']"
                                                                            data-hh="['374px','374px','174px','148px']"
@@ -205,7 +204,7 @@
                                  data-paddingbottom="[0,0,0,0]"
                                  data-paddingleft="[0,0,0,0]"
 
-                                 style="z-index: 10;border-width:0px;"><img src="images/sliders/iphone-screen-1.jpg"
+                                 style="z-index: 10;border-width:0px;"><img src="images/games.png"
                                                                             alt=""
                                                                             data-ww="['170px','170px','85px','66px']"
                                                                             data-hh="['286px','286px','143px','111px']"
@@ -215,8 +214,6 @@
 
                         </li>
 
-
-                        <!-- SLIDE  -->
                         <li data-index="rs-2" data-transition="fade" data-slotamount="7" data-hideafterloop="0"
                             data-hideslideonmobile="off" data-easein="Power4.easeInOut"
                             data-easeout="Power4.easeInOut" data-masterspeed="2000" data-rotate="0"
@@ -227,7 +224,7 @@
                             <!-- MAIN IMAGE -->
 
 
-                            <img src="images/sliders/15.jpg" alt="" data-bgposition="center center"
+                            <img src="images/games1.png" alt="" data-bgposition="center center"
                                  data-kenburns="on" data-duration="20000" data-ease="Linear.easeNone"
                                  data-scalestart="100" data-scaleend="120" data-rotatestart="0" data-rotateend="0"
                                  data-offsetstart="0 0" data-offsetend="0 0" data-bgparallax="10"
@@ -270,7 +267,8 @@
                                  data-splitin="none"
                                  data-splitout="none"
                                  data-responsive_offset="on"
-                                 style="z-index: 7; white-space: nowrap;">Big Data and BI solutions
+                                 style="z-index: 7; white-space: nowrap;">THE GLOBALLY
+
 
                             </div>
 
@@ -292,7 +290,7 @@
                                  data-splitin="none"
                                  data-splitout="none"
                                  data-responsive_offset="on"
-                                 style="z-index: 7; white-space: nowrap;">We Offer Perfect
+                                 style="z-index: 7; white-space: nowrap;">TRUSTED GAMING
                             </div>
 
                             <!-- LAYER NR. 2 -->
@@ -312,27 +310,17 @@
                                  data-splitin="none"
                                  data-splitout="none"
                                  data-responsive_offset="on"
-                                 style="z-index: 7; white-space: nowrap;">Software development
+                                 style="z-index: 7; white-space: nowrap;">PLATFORM
 
                             </div>
 
                             <!-- LAYER NR. 2 -->
-                            <div class="tp-caption sbut2 h-dark"
-                                 data-x="['left','left','left','left']" data-hoffset="['85','85','60','60']"
-                                 data-y="['top','top','top','top']" data-voffset="['580','435','335','300']"
-                                 data-whitespace="nowrap"
-                                 data-type="text"
-                                 data-responsive_offset="on"
 
-                                 data-frames='[{"from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","mask":"x:0px;y:[100%];","speed":2000,"to":"o:1;","delay":3000,"ease":"Power2.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[100%];","mask":"x:inherit;y:inherit;","ease":"Power2.easeInOut"}]'
-                                 data-textAlign="['left','left','left','left']"
-                                 data-paddingtop="[10,10,10,10]"
-                                 data-paddingright="[20,20,20,20]"
-                                 data-paddingbottom="[10,10,10,10]"
-                                 data-paddingleft="[20,20,20,20]"
-
-                                 style="z-index: 7;"><a href="#">Get Started!</a></div>
                         </li>
+
+
+
+                        <!-- SLIDE  -->
 
 
                         <!-- SLIDE  -->
@@ -358,14 +346,17 @@
                             <div class="iconbox-medium outline-gray-2 center round icon"><span class="icon-calendar"></span></div>
                             <div class="clearfix"></div>
                             <br/>
-                            <h5 class="title font-weight-5">Who we are</h5>
+                            <h5 class="title font-weight-5">100+
+                                GAMES PROVIDERS</h5>
                             <p class="content">
-                                We are a recognized provider of custom solutions across various verticals, specializing in the online entertainment industry with focus on sports in multiple countries.
-                                <br><br><br><br><br><br> </div><br><br><br><br>
+                                Benefit from a portfolio of games continuously updated by the content providers themselves with all the latest games and blockbusters. Get access to all the content you need via a single integration.
+
+                                <br><br><br>
+                                </div>
                         <div class="btn-box">
                             <a class="btn btn-dark btn-xround btn-medium uppercase btn" href="{{url('about')}}">Read more <i class="fa fa-long-arrow-right" aria-hidden="true"></i> </a>
 
-                        </div><br><br>
+                        </div>
                     </div>
                 </div>
                 <!--end item-->
@@ -376,13 +367,15 @@
                             <div class="iconbox-medium outline-gray-2 round icon"><span class="icon-browser"></span></div>
                             <div class="clearfix"></div>
                             <br/>
-                            <h5 class="title font-weight-5"> Where we are</h5>
+                            <h5 class="title font-weight-5">
+                                VIRTUAL SPORTS</h5>
                             <p class="content">
-                                Located off the western coast of Africa, Spain Canary Islands, Kentech S.L.U. team develops and delivers turnkey computing solutions, customized for the East African market needs and demands, building a bridge of innovation that connects different cultures.</p>
+                                Vast Variety of Virtual sports guaranteed to unlock incremental revenues for your operations. We offer all main markets, including outrights and multiples, providing your players with the most realistic virtual products.
+
                             </p>
-                        <br></div><br><br>
+                        <br></div>
                         <div class="btn-box">
-                            <a class="btn btn-dark btn-xround btn-medium uppercase btn" href="{{url('contact')}}">Read more <i class="fa fa-long-arrow-right" aria-hidden="true"></i> </a>
+                            <a class="btn btn-dark btn-xround btn-medium uppercase btn" href="{{url('about')}}">Read more <i class="fa fa-long-arrow-right" aria-hidden="true"></i> </a>
 
                         </div>
                     </div>
@@ -395,11 +388,14 @@
                             <div class="iconbox-medium outline-gray-2 round icon"><span class="icon-bargraph"></span></div>
                             <div class="clearfix"></div>
                             <br/>
-                            <h5 class="title font-weight-5">What we do</h5>
+                            <h5 class="title font-weight-5">LOTTERY MADE SIMPLE
+                            </h5>
                             <p class="content">
-                                We offer turnkey large-scale computing solutions, systems support, web development and web-based applications, customized for the specific market needs and demands. Our software solutions gear our partners to gain mileage ahead of their rivals.
-                            </p>
-                        </div><br>
+                                Diversify and give your gambling business
+                                an edge on the competition by integrating the lottery vertical
+                                to your gaming portfolio                            </p>
+                            <br><br><br> <br>
+                        </div>
                         <div class="btn-box">
                             <a class="btn btn-dark btn-xround btn-medium uppercase btn" href="{{url('what')}}">Read more <i class="fa fa-long-arrow-right" aria-hidden="true"></i> </a>
 
@@ -414,12 +410,15 @@
                             <div class="iconbox-medium outline-gray-2 round icon"><span class="icon-telescope"></span></div>
                             <div class="clearfix"></div>
                             <br/>
-                            <h5 class="title font-weight-5">How we work</h5>
-                            <p class="content">
-                                Great achievements happen through people. Within an Agile environment stimulating personal growth, self- motivation and creativity, employees can take ownership of the processes that make both our business and our clients' businesses succeed.
+                            <h5 class="title font-weight-5">EUROPEAN MARKET FOCUS
 
-                            </p>
-                     <br>   </div><br>
+                            </h5>
+                            <p class="content">
+                                The mature European market has transformed itself into a market which is presenting increasing challenges for operators.
+
+                                <br><br>
+                            </p><br><br><br> <br>
+                  </div>
                         <div class="btn-box">
                             <a class="btn btn-dark btn-xround btn-medium uppercase btn" href="{{url('how')}}">Read more <i class="fa fa-long-arrow-right" aria-hidden="true"></i> </a>
 
@@ -444,9 +443,9 @@
                     <div class="ce-feature-box-10">
                         <a class="popup-youtube" href="/video/bgvideo.webm">
 
-                            <div class="play-btn-img"><img src="images/wwa.png" alt=""/></div>
+                            <div class="play-btn-img"><img src="images/africa1.png" alt=""/></div>
                         </a>
-                        <img src="images/119.jpg" alt="" class="img-responsive"/>
+                        <img src="images/africa.jpg" alt="" class="img-responsive"/>
                     </div>
                 </div>
                 <!--end item-->
@@ -468,18 +467,21 @@
                         <div class="ce-feature-box-9 style-2 margin-bottom text-center">
                             <!--              <div class="top-box"></div>
                                           <div class="bottom-box"></div>-->
-                            <div class="img-box light"><img src="images/wwa.jpg" alt="" class="img-responsive"/></div>
+                            <div class="img-box light"><img src="images/cup.png" alt="" class="img-responsive"/></div>
                             <div class="clearfix"></div>
                             <br/>
-                            <h4 class="title text-dark less-mar-1 line-height-3"><span>Our mission
+                            <h4 class="title text-dark less-mar-1 line-height-3"><span>AFRICAN FOCUS
+
 
 </span></h4>
                             <div class="title-bline"></div>
                             <p class="text">
-                                Our mission is to build cutting-edge applications, which deliver long term commercial benefits and make technology an asset for our clients' business.
-                                <br><br><br><br>
+                                Ever increasing its foothold in Africa, BtoBet has launched a
+                                portfolio of dedicated content for the African market further
+                                presenting the local players with a more customized
+                                and tailored betting experience.
                             </p>
-                            <br/>
+
                             <br/>
                             <a class="btn btn-white btn-border border-1x btn-round btn-medium uppercase" href="#"><i
                                     class="fa fa-play-circle" aria-hidden="true"></i> Read more</a></div>
@@ -490,39 +492,46 @@
                         <div class="ce-feature-box-9 style-2 margin-bottom text-center">
                             <!--              <div class="top-box"></div>
                                           <div class="bottom-box"></div>-->
-                            <div class="img-box light"><img src="images/clients/1.jpg" alt="" class="img-responsive"/></div>
+                            <div class="img-box light"><img src="images/front.png" alt="" class="img-responsive"/></div>
                             <div class="clearfix"></div>
                             <br/>
-                            <h4 class="title text-dark less-mar-1 line-height-3"><span>Our vision
+                            <h4 class="title text-dark less-mar-1 line-height-3"><span>LATAM MARKET FOCUS
+
+
 
 </span></h4>
-                            <p class="text">To become a recognized provider of custom solutions to major companies across various verticals in emerging markets.
-<br><br>
+                            <p class="text">
+                                The LatAm market is one of the most interesting emerging scenarios in the iGaming industry, offering a diverse environment for all operators targeting the region for their expansion.
+
+
                             </p>
-                            <br/><br><br>
+
                             <br/>
                             <a class="btn btn-white btn-border border-1x btn-round btn-medium uppercase" href="#"><i
                                     class="fa fa-play-circle" aria-hidden="true"></i> Read more</a></div>
 
-                        <br><br> </div>
+                      </div>
                     <!--end item-->
 
                     <div class="col-md-4">
                         <div class="ce-feature-box-9 margin-bottom text-center">
                             <!--              <div class="top-box"></div>
                                           <div class="bottom-box"></div>-->
-                            <div class="img-box light"><img src="images/12.png" alt="" class="img-responsive"/>
+                            <div class="img-box light"><img src="" alt="" class="img-responsive"/>
                             </div>
                             <div class="clearfix"></div>
-                            <br/>
-                            <h4 class="title text-dark less-mar-1 line-height-3"><span>Our core values
+                            <br/><br/><br/><br/><br/><br/>
+                            <h4 class="title text-dark less-mar-1 line-height-3"><span>MAKE YOUR BRAND UNIQUE
+
 
 </span></h4>
-                            <p class="text">Kentech conducts its business with honesty and integrity. All staff at Kentech are expected to demonstrate professional etiquette by treating the clients, the partners and other employees of the company with respect.
+                            <p class="text">
+                                Customized and tailored to make your brand unique
 
                             </p>
                             <br/>
-
+                            <br/>
+                            <br/>
                             <a class="btn btn-white btn-border border-1x btn-round btn-medium uppercase" href="#"><i
                                     class="fa fa-play-circle" aria-hidden="true"></i> Read more</a></div>
                     </div>
@@ -551,11 +560,12 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12 text-center">
-                    <h2 class="less-mar-1 font-weight-3 text-white">Let's keep growing together.
+                    <h2 class="less-mar-1 font-weight-3 text-white">Together, the future is now!
+
                     </h2>
                     <div class="clearfix"></div>
                     <br/>
-                    <a class="btn btn-border btn-border-1x btn-round white uppercase" href="mailto:office@kentech-sp.com"><i class="fa fa-play-circle" aria-hidden="true"></i> Contact Us</a> </div>
+                </div>
             </div>
         </div>
     </section>
