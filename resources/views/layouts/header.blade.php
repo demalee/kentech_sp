@@ -26,7 +26,7 @@
                                         <span class="arrow"></span>
 
                                     </li>
-                                    <li class="mega-menu five-col"><a href="mailto:office@kentech-sp.com">Contact</a>
+                                    <li class="mega-menu five-col"><a href="info@gamingplat.com">Contact</a>
                                         <span class="arrow"></span>
 
                                     </li>

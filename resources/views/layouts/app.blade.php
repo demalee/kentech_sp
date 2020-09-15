@@ -105,10 +105,9 @@
                 <div class="fo-map">
                     <address>
 
-                        Office@kentech-sp.com<br>
-                        +34 660 992 215<br>
-                        Gran Canaria - Spain <br>
-                        Ipsum City, Country
+                        info@gamingplat.com<br>
+                        +121111164<br>
+                       Mauritius
                     </address>
                     </ul>
                 </div>
