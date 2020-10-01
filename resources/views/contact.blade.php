@@ -35,8 +35,8 @@
                 <div class="col-md-6">
                     <ol class="breadcrumb">
                         <li><a href="#">Home</a></li>
-                        <li><a href="#">Pages</a></li>
-                        <li class="current"><a href="#">Contact Classic</a></li>
+
+                        <li class="current"><a href="#">Contact </a></li>
                     </ol>
                 </div>
             </div>
