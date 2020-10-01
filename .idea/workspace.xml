@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dd1b4279-8231-478e-a316-2ed32dca7d34" name="Default Changelist" comment="" />
+    <list default="true" id="dd1b4279-8231-478e-a316-2ed32dca7d34" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/revolution-slider/css/navigation.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/revolution-slider/css/navigation.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/revolution-slider/css/settings.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/revolution-slider/css/settings.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/layouts/header.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/header.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/welcome.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +20,9 @@
   <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -152,6 +162,11 @@
       <updated>1599680528533</updated>
       <workItem from="1599680529911" duration="15876000" />
       <workItem from="1599710209054" duration="15688000" />
+      <workItem from="1600103947321" duration="18301000" />
+      <workItem from="1600283385134" duration="645000" />
+      <workItem from="1600291891438" duration="1160000" />
+      <workItem from="1600865069432" duration="103000" />
+      <workItem from="1601486025940" duration="15192000" />
     </task>
     <servers />
   </component>
@@ -179,13 +194,24 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="249" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1599797209282" />
-    <state x="517" y="287" key="NewPhpFileDialog" timestamp="1599683816130">
+    <state x="517" y="287" key="NewPhpFileDialog" timestamp="1601498649238">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="517" y="287" key="NewPhpFileDialog/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1599683816130" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1599724584578">
+    <state x="517" y="287" key="NewPhpFileDialog/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1601498649238" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1601487827793">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1599724584578" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1601487827793" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/resources/views/welcome.blade.php</url>
+          <line>116</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

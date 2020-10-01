@@ -13,20 +13,21 @@
 
                             <div id="menu" class="collapse">
                                 <ul class="nav navbar-nav">
-                                    <li class="mega-menu"><a href="{{url('/')}}">Home</a>
-                                        <span class="arrow"></span>
-                                    </li>
-                                    <li><a href="{{url('about')}}">About Us</a> <span class="arrow"></span>
+{{--                                    <li class="mega-menu"><a href="{{url('/')}}">Home</a>--}}
+{{--                                        <span class="arrow"></span>--}}
+{{--                                    </li>--}}
+{{--                                    <li><a href="{{url('about')}}">About Us</a> <span class="arrow"></span>--}}
 
-                                    </li>
-                                    <li><a href="{{url('what')}}">Services</a> <span class="arrow"></span>
+{{--                                    </li>--}}
+{{--                                    <li><a href="{{url('what')}}">Services</a> <span class="arrow"></span>--}}
 
-                                    </li>
-                                    <li class="mega-menu"><a href="{{url('how')}}">How we work</a>
-                                        <span class="arrow"></span>
+{{--                                    </li>--}}
+{{--                                    <li class="mega-menu"><a href="mailto:info@gamingplat.com">info@gamingplat.com</a>--}}
+{{--                                        <span class="arrow"></span>--}}
 
-                                    </li>
-                                    <li class="mega-menu five-col"><a href="info@gamingplat.com">Contact</a>
+{{--                                    </li>--}}
+
+                                    <li class="mega-menu five-col"><a href="{{url('contact')}}">Contact Us</a>
                                         <span class="arrow"></span>
 
                                     </li>
