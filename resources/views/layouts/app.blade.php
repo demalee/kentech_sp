@@ -93,11 +93,7 @@
             <div class="col-md-4 col-xs-12 clearfix margin-bottom">
 
 
-                <ul class="footer-quick-links-4 dark">
-                    <li><a href="{{url('about')}}"><i class="fa fa-angle-right"></i> About us </a></li>
-                    <li><a href="{{url('what')}}"><i class="fa fa-angle-right"></i> Services</a></li>
-                    <li><a href="{{url('how')}}"><i class="fa fa-angle-right"></i> How we work</a></li>
-                </ul>
+
             </div>
             <!--end item-->
 

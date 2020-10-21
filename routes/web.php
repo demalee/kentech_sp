@@ -19,14 +19,14 @@ Route::get('/', function () {
 Route::get('contact', function () {
     return view('contact');
 });
-Route::get('what', function () {
-    return view('what');
-});Route::get('contact', function () {
-    return view('contact');
-});
-Route::get('how', function () {
-    return view('how');
-});
-Route::get('about', function () {
-    return view('about');
-});
+//Route::get('what', function () {
+//    return view('what');
+//});Route::get('contact', function () {
+//    return view('contact');
+//});
+//Route::get('how', function () {
+//    return view('how');
+//});
+//Route::get('about', function () {
+//    return view('about');
+//});

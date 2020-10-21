@@ -6,11 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="dd1b4279-8231-478e-a316-2ed32dca7d34" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/js/revolution-slider/css/navigation.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/revolution-slider/css/navigation.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/js/revolution-slider/css/settings.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/revolution-slider/css/settings.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/layouts/header.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/header.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/welcome.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -166,7 +161,7 @@
       <workItem from="1600283385134" duration="645000" />
       <workItem from="1600291891438" duration="1160000" />
       <workItem from="1600865069432" duration="103000" />
-      <workItem from="1601486025940" duration="15831000" />
+      <workItem from="1601486025940" duration="18771000" />
     </task>
     <servers />
   </component>
